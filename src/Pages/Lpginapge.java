@@ -7,6 +7,9 @@ public class Lpginapge {
 
 		System.out.println("Hello LP");
 		
+		String n="please";
+		System.out.println("n");
+		
 	}
 
 }
