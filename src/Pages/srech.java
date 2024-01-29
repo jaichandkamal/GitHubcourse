@@ -8,6 +8,7 @@ public class srech {
 srech c=new srech();
 int f=c.add(2, 5);
 System.out.println(f);
+System.out.println("Done");
 
 	}
 	

@@ -9,6 +9,7 @@ public class Lpginapge {
 		
 		String n="please";
 		System.out.println("n");
+		System.out.println("Byee Again");
 		
 	}
 
